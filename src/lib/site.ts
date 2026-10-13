@@ -29,6 +29,7 @@ export const SITE = {
   ogImage: "https://image.cattery.co.kr/dogboho/11.webp",
   imageCdn: "https://image.cattery.co.kr/dogboho",
   url: "https://busanpetschool.puppytimes.co.kr",
+  showPopup: false,
 } as const;
 
 export const NAV = [
